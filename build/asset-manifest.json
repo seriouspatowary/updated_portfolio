@@ -1,41 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9da93032.css",
-    "main.js": "/static/js/main.dfd0482c.js",
-    "static/css/376.e78ec3d3.chunk.css": "/static/css/376.e78ec3d3.chunk.css",
-    "static/js/376.8c10d01c.chunk.js": "/static/js/376.8c10d01c.chunk.js",
+    "main.css": "/static/css/main.5301fd57.css",
+    "main.js": "/static/js/main.1371449d.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/js/421.9890a9ba.chunk.js": "/static/js/421.9890a9ba.chunk.js",
     "static/media/back.jpg": "/static/media/back.8c8c876fd409c367f484.jpg",
-    "static/media/2.png": "/static/media/2.4f64241d954c1ae16bb6.png",
-    "static/media/car.png": "/static/media/car.e132ff4c0fc8f506ac73.png",
-    "static/media/4.png": "/static/media/4.1bf7da78445785ff1343.png",
-    "static/media/3.png": "/static/media/3.d3b7e1475895d4cdb65c.png",
-    "static/media/cc.png": "/static/media/cc.37b8d0169b08b5d22935.png",
-    "static/media/5.png": "/static/media/5.c63980357b7904f0f023.png",
-    "static/media/SimantaPatowaryResume.pdf": "/static/media/SimantaPatowaryResume.28eb8f8bd91e02f0c7f9.pdf",
-    "static/media/java.png": "/static/media/java.ddf8676bd569fe01ab44.png",
-    "static/media/c-programming.png": "/static/media/c-programming.2b9f369834492bd27f46.png",
-    "static/media/wordpress.png": "/static/media/wordpress.11ed091523e3152b651f.png",
-    "static/media/1.jpg": "/static/media/1.e42ced3225f2abb115cf.jpg",
-    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/python.webp": "/static/media/python.7a9da81b5ea6a4550127.webp",
-    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/mongodb.svg": "/static/media/mongodb.bfa6cdd80f4a99232cadb39ebbb976d2.svg",
+    "static/media/SIMANTA-RESUME-LATEST.pdf": "/static/media/SIMANTA-RESUME-LATEST.8d604d3585c8f042daae.pdf",
+    "static/media/ims.svg": "/static/media/ims.fa76283dbcf5b97387e71fe37fac0376.svg",
+    "static/media/fclone.avif": "/static/media/fclone.4743729859c8d86f7f07.avif",
     "index.html": "/index.html",
-    "main.9da93032.css.map": "/static/css/main.9da93032.css.map",
-    "main.dfd0482c.js.map": "/static/js/main.dfd0482c.js.map",
-    "376.e78ec3d3.chunk.css.map": "/static/css/376.e78ec3d3.chunk.css.map",
-    "376.8c10d01c.chunk.js.map": "/static/js/376.8c10d01c.chunk.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map",
-    "421.9890a9ba.chunk.js.map": "/static/js/421.9890a9ba.chunk.js.map"
+    "main.5301fd57.css.map": "/static/css/main.5301fd57.css.map",
+    "main.1371449d.js.map": "/static/js/main.1371449d.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9da93032.css",
-    "static/js/main.dfd0482c.js"
+    "static/css/main.5301fd57.css",
+    "static/js/main.1371449d.js"
   ]
 }
