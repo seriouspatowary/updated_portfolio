@@ -62,10 +62,10 @@ export default function NavBar() {
               </li>
             
               <li className="text-white hover:text-indigo-200">
-                <Link to={"/service"}  onClick={() => setNavbar(!navbar)}>Projects</Link>
+                <Link to={"/projects"}  onClick={() => setNavbar(!navbar)}>Projects</Link>
               </li>
               <li className="text-white hover:text-indigo-200">
-                <Link to={"/about"}  onClick={() => setNavbar(!navbar)}>Work Experience</Link>
+                <Link to={"/experience"}  onClick={() => setNavbar(!navbar)}>Work Experience</Link>
               </li>
              
             </ul>

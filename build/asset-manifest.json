@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5301fd57.css",
-    "main.js": "/static/js/main.85263f84.js",
+    "main.js": "/static/js/main.b7adf3aa.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/back.jpg": "/static/media/back.8c8c876fd409c367f484.jpg",
     "static/media/SIMANTA-RESUME-LATEST.pdf": "/static/media/SIMANTA-RESUME-LATEST.8d604d3585c8f042daae.pdf",
@@ -9,11 +9,11 @@
     "static/media/fclone.avif": "/static/media/fclone.4743729859c8d86f7f07.avif",
     "index.html": "/index.html",
     "main.5301fd57.css.map": "/static/css/main.5301fd57.css.map",
-    "main.85263f84.js.map": "/static/js/main.85263f84.js.map",
+    "main.b7adf3aa.js.map": "/static/js/main.b7adf3aa.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5301fd57.css",
-    "static/js/main.85263f84.js"
+    "static/js/main.b7adf3aa.js"
   ]
 }
