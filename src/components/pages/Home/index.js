@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import { Link } from "react-router-dom";
-import dw from "./download/SIMANTA-RESUME-LATEST.pdf";
+import dw from "./download/SIMANTA-PATOWARY-LATEST-RESUME.pdf";
 import Typewriter from "typewriter-effect";
 import { motion } from "framer-motion";
 
