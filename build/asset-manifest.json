@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5301fd57.css",
-    "main.js": "/static/js/main.d07b198d.js",
+    "main.js": "/static/js/main.a1d249b0.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/back.jpg": "/static/media/back.8c8c876fd409c367f484.jpg",
-    "static/media/SIMANTA_PATOWARY_RESUME.pdf": "/static/media/SIMANTA_PATOWARY_RESUME.7ef18501eb6519479c97.pdf",
+    "static/media/SIMANTA_PATOWARY_RESUME.pdf": "/static/media/SIMANTA_PATOWARY_RESUME.29d4eb764c9ebd03423f.pdf",
     "static/media/ims.svg": "/static/media/ims.fa76283dbcf5b97387e71fe37fac0376.svg",
     "static/media/fclone.avif": "/static/media/fclone.4743729859c8d86f7f07.avif",
     "index.html": "/index.html",
     "main.5301fd57.css.map": "/static/css/main.5301fd57.css.map",
-    "main.d07b198d.js.map": "/static/js/main.d07b198d.js.map",
+    "main.a1d249b0.js.map": "/static/js/main.a1d249b0.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5301fd57.css",
-    "static/js/main.d07b198d.js"
+    "static/js/main.a1d249b0.js"
   ]
 }
